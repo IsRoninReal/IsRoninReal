@@ -1,7 +1,7 @@
 <div align="center">
-   <b>Hi, I'm DARK 👋</b> <br>
+   <b>Hi, I'm Ronin 👋</b> <br>
                                                         
-<a href="https://discord.com/users/797146573154418688" target="_blank">
+<a href="https://discord.com/users/740096974417559614" target="_blank">
    <img src="https://lanyard-profile-readme.vercel.app/api/797146573154418688?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=20px">
 </a>
 
